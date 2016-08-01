@@ -1,0 +1,21 @@
+<?php
+?>
+<!DOCTYPE html>
+<html>
+	<body>
+		<br />
+		<br />
+		<br />
+		<br />
+		<form action="upload.php" method="post" enctype="multipart/form-data">
+			Select image to Search:
+			<input type="text" name="pname" id="pname"/>
+			<br>
+			<input type="file" name="fileToUpload" id="fileToUpload">
+			<input type="submit" value="Upload Image" name="submit">
+		</form>
+		<table>
+	
+	
+	</body>
+</html>
